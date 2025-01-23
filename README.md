@@ -99,3 +99,10 @@ linera query-balance "$CHAIN2"
 
 More complex examples may be found in our [developer manual](https://linera.dev) as well
 as the [example applications](./examples) in this repository.
+
+## Key Features
+- High Scalability: Linera Protocol is designed to handle a large number of transactions per second, making it suitable for high-throughput applications.
+- Low Latency: The protocol ensures fast transaction finality, enabling real-time interactions.
+- Security: Built with robust cryptographic mechanisms to ensure data integrity and user privacy.
+- Interoperability: Linera supports cross-chain communication, allowing seamless integration with other blockchain networks.
+- Developer-Friendly: Provides comprehensive documentation and tools to simplify the development of decentralized applications (dApps).
